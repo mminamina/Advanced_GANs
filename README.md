@@ -1,2 +1,2 @@
-# Advanced_GANs
+## Advanced GANs
 BigGAN, SN DCGAN, Rasl GAN, 

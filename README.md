@@ -6,7 +6,7 @@ I did not participate in competition and this was only for Computer Vision hands
 For competition details:
 https://www.kaggle.com/c/generative-dog-images
 
-#### Packages Used
+#### Packages 
 Python, Pytorch
 
 LICENSE: This project is licensed under the terms of the MIT license.
